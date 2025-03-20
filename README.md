@@ -251,20 +251,20 @@ StrongVPN在支付方式上更加友好，特别是对中国用户而言。除�
 
 StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端，你可以根据自己的设备类型下载安装对应的APP客户端。以下是各设备安装StrongVPN客户端的操作步骤。
 
-**如何下载StrongVPN Windows/MacOS客户端？**
+**一、如何下载StrongVPN Windows/MacOS客户端？**
 
 如果你使用的是Windows或MacOS等电脑设备，最简单的方式是通过StrongVPN官网下载对应的客户端。你只需点击以下链接，按照系统提示操作即可完成下载和安装。
 
 * StrongVPN Windows客户端下载地址：Strongvpn.com/vpn-apps/windows/
 * StrongVPN MacOS客户端下载地址：Strongvpn.com/vpn-apps/macos/
 
-**如何下载StrongVPN Android客户端？**
+**二、如何下载StrongVPN Android客户端？**
 
 如果你使用的是安卓设备，那么只需打开Google Play，搜索"StrongVPN"，然后选择正确的客户端下载安装即可。
 
 如果你没有Google Play账号，可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"（注意：使用优惠码"ANYOFAI"可享九折优惠）购买一个，操作简单方便。
 
-**如何下载StrongVPN iOS客户端？**
+**三、如何下载StrongVPN iOS客户端？**
 
 如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个美区Apple ID，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
 
