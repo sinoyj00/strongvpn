@@ -258,13 +258,13 @@ StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端�
 * StrongVPN Windows客户端下载地址：Strongvpn.com/vpn-apps/windows/
 * StrongVPN MacOS客户端下载地址：Strongvpn.com/vpn-apps/macos/
 
-### 如何下载StrongVPN Android客户端？
+**如何下载StrongVPN Android客户端？**
 
 如果你使用的是安卓设备，那么只需打开Google Play，搜索"StrongVPN"，然后选择正确的客户端下载安装即可。
 
 如果你没有Google Play账号，可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"（注意：使用优惠码"ANYOFAI"可享九折优惠）购买一个，操作简单方便。
 
-### 如何下载StrongVPN iOS客户端？
+**如何下载StrongVPN iOS客户端？**
 
 如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个美区Apple ID，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
 
