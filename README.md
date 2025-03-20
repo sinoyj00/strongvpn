@@ -56,7 +56,7 @@ StrongVPN提供全天候24/7的客服支持，这是其服务的一大亮点。�
 
 ![StrongVPN中国官网](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/StrongVPN.png)
 
-* StrongVPN官方网站：strongvpn.com
+* StrongVPN官方网站：https://strongvpn.com/
 
 这是StrongVPN唯一的官方网站，没有其他官网，也没有所谓的StrongVPN镜像站！在网络上你可能会看到一些自称是"StrongVPN中国官网"的网站，但实际上StrongVPN并没有专门针对中国市场设立的官方网站，所有这些自称的"中国官网"都不是官方的，它们可能是代理商或者甚至是钓鱼网站。这些非官方网站可能会带来安全风险，甚至导致你的个人信息泄露。所以，为了确保你的网络安全和资金安全，请大家认准我们上面提到的这个唯一的StrongVPN官网。
 
@@ -211,15 +211,29 @@ StrongVPN在支付方式上更加友好，特别是对中国用户而言。除�
 
 ### 第一步：打开StrongVPN官网，点击"Start Now"按钮。
 
+* StrongVPN官网：https://strongvpn.com/
+
+![StrongVPN评测 - 注册和订阅StrongVPN第一步：打开StrongVPN官网，点击"Start Now"按钮](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-1.png)
+
 ### 第二步：选择适合自己的付费套餐。
+
+![StrongVPN评测 - 注册和订阅StrongVPN第二步：选择适合自己的付费套餐](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-2.png)
 
 ### 第三步：输入你的电子邮箱。
 
-### 第四步：选择支付方式
+![StrongVPN评测 - 注册和订阅StrongVPN第三步：输入你的电子邮箱](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-3.png)
+
+### 第四步：选择支付方式。
+
+![StrongVPN评测 - 注册和订阅StrongVPN第四步：选择支付方式](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-4.png)
 
 ### 第五步：点击“Continue to Alipay”按钮。
 
+![StrongVPN评测 - 注册和订阅StrongVPN第五步：点击“Continue to Alipay”按钮](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-5.png)
+
 ### 第六步：使用支付宝扫码完整支付。
+
+![StrongVPN评测 - 注册和订阅StrongVPN第六步：使用支付宝扫码完整支付](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-6.png)
 
 ## StrongVPN下载安装教程
 
