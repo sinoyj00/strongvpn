@@ -300,10 +300,10 @@ StrongVPN取消续订的流程其实挺简单，但要记住一点：必须在�
 
 通过StrongVPN官网取消续订：
 
-* 打开浏览器访问strongvpn.com
-* 点击右上角的"我的账户"
+* 打开浏览器<a href="https://wallvpn.com/go/strong-vpn/">访问StrongVPN官网</a>
+* 点击右上角的"Account"
 * 用你注册时的邮箱和密码登录
-* 在账户控制面板中，找到并点击"管理"或"账户详情"
+* 在账户控制面板中，找到并点击"账户详情"
 * 在账户详情页面，找到"自动续订"选项
 * 关闭或取消勾选"自动续订"
 * 在弹出的确认窗口中点"确认"或"是"
@@ -339,7 +339,7 @@ StrongVPN提供30天无理由退款保证。这意味着在购买服务后的30�
 
 StrongVPN申请退款的流程相对简单，但需要按照特定步骤进行操作：
 
-* 首先，打开浏览器访问StrongVPN官网(strongvpn.com)
+* 首先，打开浏览器<a href="https://wallvpn.com/go/strong-vpn/">访问StrongVPN官网</a>
 * 点击页面右上角的"我的账户"选项
 * 使用你注册时的电子邮件和密码登录账户
 * 在账户控制面板中，找到客户支持或帮助选项
@@ -387,3 +387,5 @@ StrongVPN虽然不是功能最多或界面最酷炫的VPN，但它把VPN最重�
 当然，没有十全十美的产品，StrongVPN也有些小缺点，比如界面可以做得更好看点，功能可以再多一些。但就核心功能和可靠性来说，它绝对是值得信赖的。
 
 如果你正在找一款性能稳定、安全可靠又容易使用的VPN，StrongVPN值得一试。尤其是对中国用户或需要看国外视频的人来说，StrongVPN可能是你最好的选择之一。
+
+<p align="center"><a href="https://wallvpn.com/go/strong-vpn/">立即获取StrongVPN</a></p>
