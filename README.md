@@ -209,9 +209,9 @@ StrongVPN在支付方式上更加友好，特别是对中国用户而言。除�
 
 注册StrongVPN账号是使用这款优秀VPN服务的第一步。整个过程虽然不复杂，但特别是对中国用户来说，按照以下步骤操作能确保顺利完成注册。在开始注册前，请先准备好以下几项必要条件：
 
-可用的电子邮箱：这将作为你的StrongVPN账号登录名，建议使用Gmail、Outlook等国际邮箱，避免使用国内邮箱可能带来的验证问题。
-支付方式：StrongVPN支持多种支付方式，包括信用卡（Visa、MasterCard、American Express等）、PayPal和支付宝。对于中国用户来说，支付宝无疑是最方便的选择。
-科学上网工具：由于StrongVPN的官方网站在中国大陆被屏蔽，你可能需要先使用其他临时科学上网工具来访问StrongVPN的官网。
+* 可用的电子邮箱：这将作为你的StrongVPN账号登录名，建议使用Gmail、Outlook等国际邮箱，避免使用国内邮箱可能带来的验证问题。
+* 支付方式：StrongVPN支持多种支付方式，包括信用卡（Visa、MasterCard、American Express等）、PayPal和支付宝。对于中国用户来说，支付宝无疑是最方便的选择。
+* 科学上网工具：由于StrongVPN的官方网站在中国大陆被屏蔽，你可能需要先使用其他临时科学上网工具来访问StrongVPN的官网。
 
 步骤一：访问StrongVPN官网
 
