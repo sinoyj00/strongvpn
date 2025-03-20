@@ -62,7 +62,7 @@ StrongVPN提供全天候24/7的客服支持，这是其服务的一大亮点。�
 
 ![StrongVPN中国官网](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/StrongVPN.png)
 
-* StrongVPN官方网站：<a href="https://wallvpn.com/go/strong-vpn/">https://strongvpn.com/</a>
+* StrongVPN官方网站：<a href="https://wallvpn.com/go/strong-vpn/">Strongvpn.com/</a>
 
 这是StrongVPN唯一的官方网站，没有其他官网，也没有所谓的StrongVPN镜像站！在网络上你可能会看到一些自称是"StrongVPN中国官网"的网站，但实际上StrongVPN并没有专门针对中国市场设立的官方网站，所有这些自称的"中国官网"都不是官方的，它们可能是代理商或者甚至是钓鱼网站。这些非官方网站可能会带来安全风险，甚至导致你的个人信息泄露。所以，为了确保你的网络安全和资金安全，请大家认准我们上面提到的这个唯一的StrongVPN官网。
 
