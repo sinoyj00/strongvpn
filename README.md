@@ -1,4 +1,4 @@
-# 最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（支持支付宝付款）
+# 最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：支持支付宝付款）
 
 ![最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/StrongVPN%20Banner.png)
 
