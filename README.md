@@ -223,7 +223,7 @@ StrongVPN在支付方式上更加友好，特别是对中国用户而言。除�
 
 ### 第一步：打开StrongVPN官网，点击"Start Now"按钮。
 
-* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">https://strongvpn.com/</a>
+* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">Strongvpn.com/</a>
 
 ![StrongVPN评测 - 注册和订阅StrongVPN第一步：打开StrongVPN官网，点击"Start Now"按钮](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/strongvpn-1.png)
 
