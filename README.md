@@ -10,7 +10,7 @@
 
 说到VPN能否在中国使用，这绝对是大家最关心的问题。毕竟再牛逼的VPN，如果在中国大陆用不了，那对我们来说也没什么意义。那么StrongVPN在中国还能用吗？
 
-根据我们的多年跟踪实测和收集到的用户反馈，StrongVPN在中国的表现还是非常稳定可靠的。虽然不能说全年100%无故障，但整体连接成功率和稳定性在各大VPN推荐榜单中还是名列前茅的。尤其是在每年的一些敏感时期，当市面上绝大多数VPN软件纷纷掉线时，StrongVPN依然能保持相对稳定的连接。
+根据我们的多年跟踪实测和收集到的用户反馈，StrongVPN在中国的表现还是非常稳定可靠的。虽然不能说全年100%无故障，但整体连接成功率和稳定性在各大<a href="https://chinavpns.github.io/">VPN推荐</a>榜单中还是名列前茅的。尤其是在每年的一些敏感时期，当市面上绝大多数VPN软件纷纷掉线时，StrongVPN依然能保持相对稳定的连接。
 
 StrongVPN能在中国稳定使用的主要原因是它采用了多种先进的翻墙技术。首先，StrongVPN支持多种VPN协议，包括OpenVPN、IKEv2、IPSec和最新的WireGuard协议。特别是WireGuard协议，它不仅速度快，而且更难被防火长城检测和封锁。其次，StrongVPN拥有自己的混淆技术，可以有效地将VPN流量伪装成普通网络流量，从而避开网络审查。
 
@@ -93,7 +93,7 @@ StrongVPN在全球30多个国家和地区部署了950多台高质量服务器，
 
 * 连接速度
 
-在整个中国VPN排行榜单中，StrongVPN的连接速度仅次于ExpressVPN，表现相当出色。根据我们多次实测数据，StrongVPN在连接到亚洲区域服务器（如日本、新加坡、韩国等）时，网速损耗通常在10%-30%之间，这对于日常网页浏览、视频观看、文件下载等需求完全足够。特别是在使用其推荐的WireGuard协议时，连接速度会有明显提升。即使是进行高清视频流播放或大型文件下载，StrongVPN也能提供流畅的体验。当然，实际速度会受到你的原始网络状况、所连接的服务器距离、当前服务器负载等多种因素影响，但总体而言，StrongVPN在速度方面的表现令人满意。
+在整个<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN排行</a>榜单中，StrongVPN的连接速度仅次于ExpressVPN，表现相当出色。根据我们多次实测数据，StrongVPN在连接到亚洲区域服务器（如日本、新加坡、韩国等）时，网速损耗通常在10%-30%之间，这对于日常网页浏览、视频观看、文件下载等需求完全足够。特别是在使用其推荐的WireGuard协议时，连接速度会有明显提升。即使是进行高清视频流播放或大型文件下载，StrongVPN也能提供流畅的体验。当然，实际速度会受到你的原始网络状况、所连接的服务器距离、当前服务器负载等多种因素影响，但总体而言，StrongVPN在速度方面的表现令人满意。
 
 * 设备兼容性
 
@@ -262,13 +262,13 @@ StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端�
 
 如果你使用的是安卓设备，那么只需打开Google Play，搜索"StrongVPN"，然后选择正确的客户端下载安装即可。
 
-如果你没有Google Play账号，可以通过"银河录像局"购买一个，操作简单方便。注意：通过"银河录像局"购买Google Play账号时，使用优惠码"ANYOFAI"可享九折优惠！
+如果你没有Google Play账号，可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"（注意：使用优惠码"ANYOFAI"可享九折优惠）购买一个，操作简单方便。
 
 ### 如何下载StrongVPN iOS客户端？
 
 如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个美区Apple ID，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
 
-如果你不知道如何获取美区Apple ID，可以查看：美区Apple ID购买教程！
+如果你不知道如何获取美区Apple ID，可以查看：<a href="https://github.com/chinavpns/iosvpn.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0%E7%8E%B0%E6%88%90%E7%9A%84%E7%BE%8E%E5%8C%BAapple-id%E6%8E%A8%E8%8D%90">美区Apple ID购买教程</a>！
 
 ## StrongVPN钓鱼是真的吗？
 
@@ -291,6 +291,8 @@ StrongVPN是一家成立于2005年的正规VPN服务提供商，总部位于美�
 StrongVPN允许用户在一个账号下同时连接最多12台设备。这意味着你可以在iPhone、iPad、Android手机、Windows电脑、MacBook等设备上同时使用StrongVPN服务，而不需要频繁登录或注销。与市场上许多只允许5-6台设备同时连接的VPN相比，StrongVPN的12台设备限制可以说是非常实用的。这个数量足以满足大多数个人用户甚至小型家庭的全部需求。
 
 除了同时连接数量外，StrongVPN也支持几乎所有主流设备和平台。你可以在Windows、macOS、Linux、Android、iOS设备上使用StrongVPN的专属应用程序，这些应用界面友好且容易上手。此外，StrongVPN还支持路由器安装，这意味着你可以在家庭或办公室路由器上设置VPN，让所有连接到这个路由器的设备都能享受VPN保护。
+
+总的来说，StrongVPN绝对称得上是最好用的<a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/chinavpns/androidvpn.github.io">安卓VPN</a>、<a href="https://github.com/chinavpns/iosvpn.github.io">苹果VPN</a>、<a href="https://github.com/chinavpns/router-vpn">路由器VPN</a>！
 
 ## StrongVPN怎么取消续订？
 
